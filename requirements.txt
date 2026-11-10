@@ -1,0 +1,5 @@
+# This project uses Python's standard library (tkinter, random).
+# No external dependencies are strictly required to run the basic application.
+
+# Optional: if you plan to package or expand the project later
+# pyinstaller>=5.0
