@@ -43,8 +43,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
----
-
 <p align="center">
   <a href="https://github.com/rhdnxy">
     <img src="https://img.shields.io/badge/build%20by-rhdnxy2026-blue?style=flat-square&logo=github" alt="Build by rhdnxy2026">
