@@ -43,4 +43,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-# by rhdnxy2026
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
