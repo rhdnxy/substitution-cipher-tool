@@ -19,7 +19,7 @@ A desktop-based graphical application built with Python and Tkinter that impleme
 
 ## 📸 Preview
 
-![Application Screenshot](assets/documentation.jpg)
+![Application Screenshot](assets/documentation.JPG)
 
 ---
 
