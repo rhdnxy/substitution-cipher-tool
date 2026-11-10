@@ -46,11 +46,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ---
 
 <p align="center">
-  <a href="https://github.com/rhdnxy2026">
+  <a href="https://github.com/rhdnxy">
     <img src="https://img.shields.io/badge/build%20by-rhdnxy2026-blue?style=flat-square&logo=github" alt="Build by rhdnxy2026">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
   </a>
 </p>
