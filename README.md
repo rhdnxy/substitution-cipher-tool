@@ -7,7 +7,7 @@ A desktop-based graphical application built with Python and Tkinter that impleme
 
 ---
 
-## ✨ Features
+## Features
 
 - **Graphical User Interface (GUI):** Clean, lightweight, and user-friendly desktop interface built with `tkinter`.
 - **Unique Character Mapping:** Encrypts text into a combination of Arabic, Russian, and Thai unicode blocks using a deterministic pseudo-random seed (`seed=42`).
@@ -16,13 +16,13 @@ A desktop-based graphical application built with Python and Tkinter that impleme
 
 ---
 
-## 📸 Preview
+## Preview
 
 ![Application Screenshot](assets/documentation.JPG)
 
 ---
 
-## 🚀 Installation & Usage
+## Installation & Usage
 
 1. **Clone the repository:**
    ```bash
@@ -37,7 +37,7 @@ A desktop-based graphical application built with Python and Tkinter that impleme
 
 ---
 
-## 🤝 Contributing
+## Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/rhdnxy/substitution-cipher-tool/issues).
 
 ---
